@@ -9,6 +9,7 @@
     "props":{
       "text": "**Hello, World**",
       "textPosition": "RIGHT"
+      
     }
   }
 }
