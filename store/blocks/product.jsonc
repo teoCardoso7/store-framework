@@ -20,8 +20,9 @@
   },
   "flex-layout.col#right": {
     "props": {
-      "verticalAlign": "middle",
-      "preventVerticalStretch": false
+      "preventVerticalStretch": false,
+
+      "verticalAlign": "middle"
     },
     "children": [
       "product-name",
