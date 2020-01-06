@@ -8,7 +8,7 @@
     font-weight: bold;
 
 }
-.infoCardCallActionContainer :global(.vtex-button) :hover{
+.infoCardCallActionContainer :global(.vtex-button):hover{
     background: white;
 }
 .infoCardHeadline--vintage{
