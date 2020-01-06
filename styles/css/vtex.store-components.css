@@ -31,10 +31,9 @@
 .infoCardCallActionContainer :global(.vtex-button):hover{
     background-color: white;
 }
-.infoCardHeadline--vintage{
+.infoCardContainer--vintage {
     background-color: #EDCFD1
-
-}
+  }
 .infoCardContainer--metal {
     background-color: #e1e1e1;
   }
