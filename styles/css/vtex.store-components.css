@@ -8,10 +8,14 @@
     font-weight: bold;
 
 }
-.infoCardCallActionContainer :hover{
-    background-color: white;
+.infoCardCallActionContainer :global(.vtex-button) :hover{
+    background: white;
+}
+.infoCardHeadline--vintage{
+    background: #EDCFD1
+
 }
 .infoCardContainer--metal {
-    background-color: #e1e1e1;
+    background: #e1e1e1;
   }
 
