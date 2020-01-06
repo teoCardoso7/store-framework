@@ -3,7 +3,7 @@
     "shelf": {
         "blocks": ["product-summary.shelf"],
         "props": {
-            "category": 1,
+            "category": "1494",
             "orderBy": "OrderByTopSaleDESC",
             "paginationDotsVisibility": "desktopOnly",
             "productList": {
@@ -13,7 +13,7 @@
                 "scroll": "BY_PAGE",
                 "arrows": true,
                 "titleText": "Top sellers"
-                
+
             }
         }
     }

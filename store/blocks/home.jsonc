@@ -6,6 +6,7 @@
       "info-card#button-left",
       "flex-layout.row",
       "shelf"
+
     ]
   },
   "flex-layout.row": {
