@@ -1,12 +1,13 @@
 {
     "store.custom#landing": {
         "blocks": [
-            "image#landingbanner",
+            "image",
             "search-result-layout.customQuery"
         ]
     },
-    "image#landingbanner": {
+    "image": {
         "props": {
+            "src": "https://www.fillmurray.com/800/500"
             "minWidth": "100%"
         }
     },
