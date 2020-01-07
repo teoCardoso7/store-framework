@@ -59,6 +59,7 @@
       "textPosition": "CENTER",
       "font": "t-heading-3"
     }
+    
   },
   "iframe#home2": {
     "props": {
