@@ -10,16 +10,7 @@
       "orientation": "horizontal"
     }
   },
-  "menu-item#small-appliances":{
-    "children":[
-      "vtex.menu@2.x:submenu#small"
-    ]
-  },
-  "menu-item#major-appliances":{
-    "children":[
-      "vtex.menu@2.x:submenu#major"
-    ]
-  },
+
   "vtex.menu@2.x:submenu#major": {
     "children": [
       "vtex.menu@2.x:menu#major"
@@ -66,9 +57,10 @@
 },
 "vtex.menu@2.x:menu#electronics": {
   "children": [
+    "menu-item#cameras",
     "menu-item#laptops",
-    "menu-item#tvs",
-    "menu-item#cameras"
+    "menu-item#tvs"
+    
   ],
   "props": {
     "orientation": "vertical"
